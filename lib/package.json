@@ -1,15 +1,21 @@
 {
-    "name": "math-utils",
-    "version": "1.0.0",
-    "description": "Math-utils lib.",
-    "main": "index.js",
-    "scripts": {},
-    "keywords": [
-        "vector2D"
-    ],
-    "author": "atari-monk",
-    "license": "ISC",
-    "devDependencies": {
-        "typescript": "^5.1.6"
-    }
+  "name": "atari-monk-math-utils-lib",
+  "version": "1.0.0",
+  "description": "Math-utils lib.",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "i": "powershell.exe -ExecutionPolicy Bypass -File .\\script\\install.ps1"
+  },
+  "keywords": [
+    "vector2D"
+  ],
+  "author": "atari-monk",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.1.6"
+  },
+  "dependencies": {
+    "atari-monk-math-utils-api": "file:atari-monk-math-utils-api-1.0.0.tgz"
+  }
 }
