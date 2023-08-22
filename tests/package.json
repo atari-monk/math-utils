@@ -1,0 +1,12 @@
+{
+    "name": "math-utils-tests",
+    "version": "1.0.0",
+    "description": "Math-utils lib tests.",
+    "main": "index.js",
+    "scripts": {},
+    "keywords": [
+        "vector2D"
+    ],
+    "author": "atari-monk",
+    "license": "ISC"
+}

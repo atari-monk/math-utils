@@ -1,0 +1,12 @@
+{
+    "name": "math-utils",
+    "version": "1.0.0",
+    "description": "Math-utils lib.",
+    "main": "index.js",
+    "scripts": {},
+    "keywords": [
+        "vector2D"
+    ],
+    "author": "atari-monk",
+    "license": "ISC"
+}
